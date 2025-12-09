@@ -1,0 +1,15 @@
+{
+  "name": "USDT",
+  "timestamp": "2025-12-09T00:00:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x7094270F7f681a953dBd87d1c132909986075d61",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "git@github.com:archiscode/-assets-chain_id-token_address-assets/1/0x7094270F7f681a953dBd87d1c132909986075d61/logo.png"
+    }
+  ]
+}
